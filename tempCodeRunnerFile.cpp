@@ -1,1 +1,1 @@
-cin.ignore();
+Dong cua Lab (Thoat chuong trinh)
