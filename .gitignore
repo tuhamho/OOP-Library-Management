@@ -2,7 +2,7 @@
 *.exe
 *.o
 *.obj
-
+*.tempCoderRunnerFile.cpp
 # Chặn các thư mục rác của IDE và Debug
 .vscode/
 build/
