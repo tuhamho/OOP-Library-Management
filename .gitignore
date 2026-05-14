@@ -1,0 +1,16 @@
+# Chặn các file đã biên dịch
+*.exe
+*.o
+*.obj
+
+# Chặn các thư mục rác của IDE và Debug
+.vscode/
+build/
+Debug/
+Release/
+ipch/
+*.db
+*.opendb
+
+# Chặn các file tạm của VS Code
+tempCoderRunnerFile.cpp
